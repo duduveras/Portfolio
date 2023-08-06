@@ -35,7 +35,7 @@ header .header__right .header__image::after {
   z-index: -1;
 }
 
-header .header__right .header__image .lucas {
+header .header__right .header__image .eduardo {
   border-radius: 0.5rem;
   min-width: 25rem;
   max-width: 50%;
